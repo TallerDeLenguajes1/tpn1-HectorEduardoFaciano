@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/$Recycle.Bin/S-1-5-21-3623623594-1548497925-4075792667-1001/$R0ZYNQN/include",
+                "C:/$Recycle.Bin/S-1-5-21-3623623594-1548497925-4075792667-1001/$R0ZYNQN/lib/gcc/mingw32/4.8.1/include",
+                "C:/$Recycle.Bin/S-1-5-21-3623623594-1548497925-4075792667-1001/$R0ZYNQN/lib/gcc/mingw32/4.8.1/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
